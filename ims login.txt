@@ -1,0 +1,85 @@
+
+Sadmin 
+Username : 294
+Password : 123
+
+Group admin 
+Username : aaa
+Password : 123
+
+
+Institute Admin 
+Username : ace
+Password : 123
+
+Parent
+Username : pstc2
+Password : 123
+
+Student
+Username : stc2@6060
+Password : 123
+
+Staff
+Username : stfc2@6060
+Password : 123
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------
+Sadmin 
+Username : 294
+Password : 123
+
+Group admin 
+Username : BENA1
+Password : 123
+
+
+Institute Admin 
+Username : BENEA1
+Password : 123
+
+Parent
+Username : pbe400
+Password : 123
+
+Student
+Username : be400@BENA
+Password : 123
+
+Staff
+Username : bes502@BENA
+Password : 123
+
+
+entity
+1dfv-1
+
+
+clg 
+cg 
+staf@987 
+stu@987
+
+http://192.168.1.23:7000/ims-api/dashCount
+
+
+
+

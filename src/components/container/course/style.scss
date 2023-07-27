@@ -1,0 +1,35 @@
+@import 'styles/theme.scss';
+
+
+.react-bs-table {
+    height: auto !important
+}
+
+
+.logininview{
+    box-shadow: $box-shadow;
+    height: auto;
+    width: 100%;
+    background-color: #fff;
+    padding: 30px;
+}
+
+
+
+.image-upload > input
+{
+    display: none;
+}
+
+.image-upload img
+{
+    width: 80px;
+    cursor: pointer;
+}
+
+#description{
+    width: 25%
+}
+.react-datepicker-wrapper,.react-datepicker__input-container{
+    width: 100%;
+}

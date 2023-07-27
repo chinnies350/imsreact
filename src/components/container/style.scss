@@ -1,0 +1,51 @@
+@import "styles/theme.scss";
+.sidbardiv{
+    width: 250px;
+    position: fixed;
+    overflow: auto;
+    overflow-x: hidden;
+    height: calc(100vh - 70px);
+    background: #fff;
+    box-shadow: $box-shadow;
+}
+.maincontentdiv{
+    margin: 0px 15px 15px 270px;
+    width: 100%;
+  
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .sidbardiv{
+        display: none;
+       
+    }
+    .maincontentdiv{
+        margin: 5px 5px 5px 5px;
+        padding:0 15px;
+    }
+} 
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+} 
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+}
+.mobilesidenav{
+    display:block;
+    z-index:5;
+  }

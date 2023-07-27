@@ -1,0 +1,6 @@
+@import 'styles/theme.scss';
+.PreviewArea{
+    position: absolute;
+    z-index: 50; 
+   box-shadow: $box-shadow; 
+}

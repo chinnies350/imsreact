@@ -1,0 +1,176 @@
+{
+  "timeTable": [
+    {
+      "Monday": [
+        {
+          "time": "9.00 - 9.50",
+          "subjectName": "Maths",
+          "staff": "Thulasi"
+        },
+        {
+          "time": "9.50 - 10.00",
+          "subjectName": "Break",
+          "staff": ""
+        },
+        {
+          "time": "10.00 - 10.50",
+          "subjectName": "Physics",
+          "staff": "Divya"
+        },
+        {
+          "time": "11.00 - 12.00",
+          "subjectName": "Science",
+          "staff": "Shruthi"
+        }, 
+        {
+          "time": "1.00 - 2.00",
+          "subjectName": "Tamil",
+          "staff": "Preethi"
+        },
+        {
+          "time": "2.00 - 2.50",
+          "subjectName": "SE",
+          "staff": "Sandhiya"
+        },
+        {
+          "time": "2.50 - 3.00",
+          "subjectName": "Break",
+          "staff": ""
+        },
+        {
+          "time": "3.00 - 4.00",
+          "subjectName": "ST",
+          "staff": "Bernet"
+        }
+      ],
+      "Thuesday": [
+        {
+          "time": "9.00 - 9.50",
+          "subjectName": "DBMS",
+          "staff": "Veeramani"
+        }, 
+        {
+          "time": "10.00 - 10.50",
+          "subjectName": "English",
+          "staff": "Chirstina"
+        },
+        {
+          "time": "11.00 - 12.00",
+          "subjectName": "Science",
+          "staff": "Shruthi"
+        }, 
+        {
+          "time": "1.00 - 2.00",
+          "subjectName": "Science",
+          "staff": "Preethi"
+        },
+        {
+          "time": "2.00 - 2.50",
+          "subjectName": "OS",
+          "staff": "Krishnamoorthy"
+        }, 
+        {
+          "time": "3.00 - 4.00",
+          "subjectName": "ST",
+          "staff": "Bernet"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "9.00 - 9.50",
+          "subjectName": "Maths",
+          "staff": "John"
+        }, 
+        {
+          "time": "10.00 - 10.50",
+          "subjectName": "OS",
+          "staff": "Joseph"
+        },
+        {
+          "time": "11.00 - 12.00",
+          "subjectName": "Science",
+          "staff": "Shruthi"
+        }, 
+        {
+          "time": "1.00 - 2.00",
+          "subjectName": "Tamil",
+          "staff": "Preethi"
+        },
+        {
+          "time": "2.00 - 2.50",
+          "subjectName": "SE",
+          "staff": "Sandhiya"
+        }, 
+        {
+          "time": "3.00 - 4.00",
+          "subjectName": "ST",
+          "staff": "Bernet"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "9.00 - 9.50",
+          "subjectName": "Maths",
+          "staff": "Thulasi"
+        }, 
+        {
+          "time": "10.00 - 10.50",
+          "subjectName": "Physics",
+          "staff": "Divya"
+        },
+        {
+          "time": "11.00 - 12.00",
+          "subjectName": "Science",
+          "staff": "Shruthi"
+        }, 
+        {
+          "time": "1.00 - 2.00",
+          "subjectName": "Social",
+          "staff": "Tharani"
+        },
+        {
+          "time": "2.00 - 2.50",
+          "subjectName": "English",
+          "staff": "Joel"
+        }, 
+        {
+          "time": "3.00 - 4.00",
+          "subjectName": "Tamil",
+          "staff": "Joshua"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "9.00 - 9.50",
+          "subjectName": "Maths",
+          "staff": "Thulasi"
+        }, 
+        {
+          "time": "10.00 - 10.50",
+          "subjectName": "Physics",
+          "staff": "Divya"
+        },
+        {
+          "time": "11.00 - 12.00",
+          "subjectName": "Electronics",
+          "staff": "Keerthana"
+        }, 
+        {
+          "time": "1.00 - 2.00",
+          "subjectName": "Tamil",
+          "staff": "Preethi"
+        },
+        {
+          "time": "2.00 - 2.50",
+          "subjectName": "English",
+          "staff": "Gayathri"
+        }, 
+        { 
+          "time": "3.00 - 4.00",
+          "subjectName": "OS",
+          "staff": "Kavitha"
+        }
+      ]
+    }
+  ]
+}

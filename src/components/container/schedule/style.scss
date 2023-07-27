@@ -1,0 +1,81 @@
+@import 'styles/theme';
+
+
+.react-datepicker-wrapper,.react-datepicker__input-container{
+    width: 100%;
+}
+
+.PreviewArea{
+    position: absolute;
+    z-index: 50; 
+   box-shadow: $box-shadow; 
+}
+ 
+
+.scheduletabstyle{
+    box-shadow: $box-shadow;
+    border-radius: 4px;
+    padding: 10px;
+    cursor: pointer;
+    border: 1px solid #ddd;
+    width: auto;
+    margin-right: 25px;
+    color: $nav-li-a;
+    background-color: #fff;
+    transition: 0.2s all linear;
+    svg{
+        vertical-align: middle;
+    }
+    span{
+        font-weight: 500;
+        margin-left: 5px;
+    } 
+    &:active{
+        border-bottom: 2px solid $primary !important;
+    }
+    
+}
+ 
+
+.scheduletabstyld{
+    border-bottom: 2px solid $primary !important;
+}
+
+.picky__input {
+    border: 1px solid #ced4da !important;
+    border-radius: 0.25rem !important;
+}
+
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+    color: #ffffff;
+    background-color: #03A9F4;
+    border-color: #03A9F4 #03A9F4 #03A9F4;
+}
+
+.nav-tabs .nav-item {
+    margin-bottom: -1px;
+    cursor: pointer;
+}
+
+.form-control-file, .form-control-range {
+    display: block;
+    width: 100%;
+    width: 100%;
+    height: calc(2.25rem + 2px);
+    padding: 0.15rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.form-control-file:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #80ccff;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(0, 153, 255, 0.25);
+} 
